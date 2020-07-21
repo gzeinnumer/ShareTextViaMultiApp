@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Share_Text_Via_MultiApp.iml" filepath="$PROJECT_DIR$/.idea/modules/Share_Text_Via_MultiApp.iml" group="Share_Text_Via_MultiApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Share Text Via MultiApp/app" />
+    </modules>
+  </component>
+</project>
